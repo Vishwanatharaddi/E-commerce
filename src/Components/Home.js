@@ -37,8 +37,8 @@ function Home() {
             </tr>
             <tr>
               <td>4</td>
-              <td>Ajay</td>
-              <td>gorakhpur</td>
+              <td>vishu</td>
+              <td>rajkot</td>
               <td>@twitter</td>
             </tr>
           </tbody>
